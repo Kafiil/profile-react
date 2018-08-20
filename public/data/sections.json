@@ -1,0 +1,29 @@
+ [{
+     "title": "About",
+     "icon": "fa-user-secret"
+   },
+   {
+     "title": "Projects",
+     "icon": "fa-cogs"
+   },
+   {
+     "title": "Experience",
+     "icon": "fa-briefcase"
+   },
+   {
+     "title": "Studies",
+     "icon": "fa-graduation-cap"
+   },
+   {
+     "title": "Languages",
+     "icon": "fa-comments"
+   },
+   {
+     "title": "Skills",
+     "icon": "fa-bolt"
+   },
+   {
+     "title": "Contact",
+     "icon": "fa-envelope"
+   }
+ ]

@@ -1,0 +1,25 @@
+[{
+    "image": "assets/img/Schools/cpge.png",
+    "school": "CPGE",
+    "degree": "Mathematics, Physics and Engineer Sciences",
+    "period": "2008 - 2010",
+    "details": "Where I learnt very cool stuff",
+    "link": "http://cpge.ac.ma"
+  },
+  {
+    "image": "assets/img/Schools/fcc.png",
+    "school": "Free Code Camp",
+    "degree": "Full Stack Web Developper",
+    "period": "2016 - 2017",
+    "details": "Free Code Camp is a friendly open-source community where you learn to code and help nonprofits. I joined the plateform early this year and I enjoyed learning a lot of the skills required to be the best full stack web developper I can.",
+    "link": "https://freecodecamp.com"
+  },
+  {
+    "image": "assets/img/Schools/logo_emi.png",
+    "school": "Mohammadia School of Engineers",
+    "degree": "Computer Science Engineering Degree",
+    "period": "2010 - 2013",
+    "details": "The Mohammadia School of engineering (Arabic: المدرسة المحمدية للمهندسين‎; abbreviated EMI) is the first and the best School of Engineering in Rabat, Morocco. EMI was founded in 1959 by the King Mohammed V as Morocco\"s first polytechnic, it\"s the largest institution of higher education in technology and one of the leading technical schools in Morocco.",
+    "link": "https://www.emi.ac.ma"
+  }
+]

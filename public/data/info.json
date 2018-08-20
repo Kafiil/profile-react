@@ -1,0 +1,17 @@
+{
+  "name": "Kafil Nasdami",
+  "dateOfBirth": "03/01/1990",
+  "jobTitle": "Full stack developper C#.NET/Angular",
+  "country": "Morocco",
+  "city": "Marrakesh",
+  "aboutMe": [
+    "My main strength is that I love programming, which makes what I do not only a job but also a passion. As part of my previous experiences, I've build a lot of websites and web applications mainly from scratch.",
+    "I code with C# but also Java. I'm very comfortable around .NET technologies such as ASP.NET MVC, SQL Server, Entity framework...",
+    "I also use bootstrap, javascript jquery and other Javascript technologies such as AngularJS and React ...",
+    "If you ever need a reliable resource that would get the job done in a convenient period of time, then I guess I am your man."
+  ],
+  "favoriteQuote": {
+    "content": "Choose a job you love, and you will never have to work a day in your life.",
+    "author": "Confucius"
+  }
+}

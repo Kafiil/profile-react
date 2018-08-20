@@ -1,0 +1,121 @@
+[{
+    "name": "HTML",
+    "rate": 90,
+    "color": ""
+  },
+  {
+    "name": "CSS",
+    "rate": 70,
+    "color": ""
+  },
+  {
+    "name": "Javascript",
+    "rate": 75,
+    "color": ""
+  },
+  {
+    "name": "Jade",
+    "rate": 70,
+    "color": ""
+  },
+  {
+    "name": "Sass",
+    "rate": 65,
+    "color": ""
+  },
+  {
+    "name": "bootstrap",
+    "rate": 80,
+    "color": ""
+  },
+  {
+    "name": "jQuey",
+    "rate": 70,
+    "color": ""
+  },
+  {
+    "name": "C#",
+    "rate": 75,
+    "color": ""
+  },
+  {
+    "name": "ASP.Net MVC",
+    "rate": 85,
+    "color": ""
+  },
+  {
+    "name": "SQL Server",
+    "rate": 70,
+    "color": ""
+  },
+  {
+    "name": "Entity Framework",
+    "rate": 75,
+    "color": ""
+  },
+  {
+    "name": "LINQ",
+    "rate": 75,
+    "color": ""
+  },
+  {
+    "name": "Visual Studio",
+    "rate": 60,
+    "color": ""
+  },
+  {
+    "name": "IIS",
+    "rate": 60,
+    "color": ""
+  },
+  {
+    "name": "Git",
+    "rate": 90,
+    "color": ""
+  },
+  {
+    "name": "Node.js",
+    "rate": 70,
+    "color": ""
+  },
+  {
+    "name": "npm",
+    "rate": 70,
+    "color": ""
+  },
+  {
+    "name": "Yeoman",
+    "rate": 70,
+    "color": ""
+  },
+  {
+    "name": "Bower",
+    "rate": 70,
+    "color": ""
+  },
+  {
+    "name": "Angular 2",
+    "rate": 70,
+    "color": ""
+  },
+  {
+    "name": "Typescript",
+    "rate": 76,
+    "color": ""
+  },
+  {
+    "name": "Grunt",
+    "rate": 70,
+    "color": ""
+  },
+  {
+    "name": "Gulp",
+    "rate": 65,
+    "color": ""
+  },
+  {
+    "name": "Java",
+    "rate": 95,
+    "color": ""
+  }
+]
