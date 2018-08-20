@@ -3,20 +3,32 @@ import {
     Collapse,
     Navbar,
     NavbarToggler,
-    NavbarBrand,
     Nav,
     NavItem,
     NavLink
 } from 'reactstrap';
+import { DataService } from "../../services/data.service";
+import './navbar.css'
 
 export class MainNav extends Component {
     constructor(props) {
         super(props);
+        const sections = new DataService().getSections()
+            .map((e, i) => {
+                return (
+                    <NavItem key={i}>
+                        <NavLink href={'#' + e.title}>
+                            <i className={'fa ' + e.icon}> </i>&nbsp;
+                            {e.title}</NavLink>
+                    </NavItem>
+                )
+            })
 
         this.state = {
-            isOpen: false
+            isOpen: false, sections
         };
     }
+
     toggle = () => {
         this.setState({
             isOpen: !this.state.isOpen
@@ -26,13 +38,10 @@ export class MainNav extends Component {
         return (
             <div>
                 <Navbar color="dark" dark expand="md">
-                    <NavbarBrand href="/">Kafil Nasdami</NavbarBrand>
                     <NavbarToggler onClick={this.toggle} />
                     <Collapse isOpen={this.state.isOpen} navbar>
-                        <Nav className="ml-auto" navbar>
-                            <NavItem>
-                                <NavLink href="/">Home</NavLink>
-                            </NavItem>
+                        <Nav className="mx-auto" navbar>
+                            {this.state.sections}
                         </Nav>
                     </Collapse>
                 </Navbar>

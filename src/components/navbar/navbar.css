@@ -1,0 +1,17 @@
+.navbar {
+    padding: 0;
+  }
+  li {
+    margin: 0;
+  }
+  li a {
+    font-family: "news cycle";
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: white !important;
+    padding: 1rem !important;
+  }
+  li .active {
+    background-color: white;
+    color: black !important;
+  }
